@@ -1,0 +1,4 @@
+PHP Fatal error:  Uncaught Error: Class "OriginCheck" not found in C:\xampp\htdocs\qrkod\bin\server.php:120
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\qrkod\bin\server.php on line 120
